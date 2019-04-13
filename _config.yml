@@ -21,8 +21,8 @@ defaults:
     layout: post
 email: stephenbarkan@gmail.com
 description: A blog about Japan.
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 twitter_username: stephen_barkan
 github_username: stephen_barkan
 markdown: kramdown
